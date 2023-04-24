@@ -1,0 +1,10 @@
+header {
+    background-color: #383D58;
+    color: white
+}
+.lobo{
+    width: 500px;
+    position: relative;
+    top: 50px;
+    left: 200px;
+}

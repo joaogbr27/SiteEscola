@@ -1,10 +1,17 @@
-header {
-    background-color: #383D58;
-    color: white
+.cabecalho{
+    background-color: #1a7edb;
+    color: rgb(15, 12, 12);
+    display: flex;
+    justify-content: space-around;
+
 }
 .lobo{
     width: 500px;
     position: relative;
-    top: 50px;
-    left: 200px;
+    top: 0px;
+    left: 20px;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+
 }

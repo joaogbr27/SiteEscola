@@ -1,9 +1,8 @@
 .cabecalho{
-    background-color: #1a7edb;
-    color: rgb(190, 16, 16);
+    background-color: #6995be;
+    color: rgb(2, 1, 1);
     display: flex;
     justify-content: space-around;
-
 }
 .lobo{
     width: 500px;
@@ -22,5 +21,12 @@
 }
 .escola{
     background-image: linear-gradient(#1a7edbb6,#027333);
-
+    color:wheat;
+    display: flex;
+}
+.escola-conteudo{
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
